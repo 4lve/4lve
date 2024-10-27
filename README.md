@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 4lve</h1>
-<h3 align="center">Solana Maxi/ and Developer</h3>
+<h3 align="center">Solana Maxi and Developer</h3>
 
 - 🔭 I’m currently working on **Helix**
 
@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/4lve1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4lve1" height="30" width="40" /></a>
+<a href="https://discord.com/users/347818082787393539" target="blank"><img align="center" src="https://sv.vecteezy.com/vektor-konst/6892625-discord-logo-ikon-redaktionell-vektor" alt="4lve1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
